@@ -8,3 +8,10 @@ Fly
 Gnat
 Grasshopper
 Hornet
+Locust
+Louse
+Mosquito
+Stinkbug
+Termite
+Wasp
+Worm
