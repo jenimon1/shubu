@@ -7,3 +7,6 @@ Fish
 Flamingo
 Goldfish
 Herring
+Salmon
+Shark
+Trout
